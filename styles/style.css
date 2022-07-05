@@ -34,8 +34,30 @@ li {
 
 header {
   text-align: center;
+  margin-bottom: 50px;
 }
 
 header img {
   width: 300px;
+}
+
+main {
+  background-color: #3f4e4f;
+  width: 700px;
+  margin: 0 auto 50px auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+main a {
+  color: wheat;
+  background-color: #2c3639;
+  padding: 7px 10px;
+  border-radius: 10px;
+}
+
+main a:active,
+main a:hover {
+  background-color: wheat;
+  color: #2c3639;
 }
