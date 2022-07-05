@@ -62,6 +62,18 @@ main a:hover {
   color: #2c3639;
 }
 
+li {
+  padding-left: 10px;
+  border-left: 4px solid transparent;
+  margin-bottom: 15px;
+}
+
+ul li:nth-of-type(even) {
+  border-color: #0f3440;
+  color: rgb(18, 58, 66);
+  font-weight: bolder;
+}
+
 footer {
   text-align: center;
   margin-bottom: 50px;
