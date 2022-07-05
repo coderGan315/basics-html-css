@@ -61,3 +61,22 @@ main a:hover {
   background-color: wheat;
   color: #2c3639;
 }
+
+footer {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.btn {
+  background-color: #a27b5c;
+  padding: 12px 35px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: #f3c877;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: #f3c877;
+  color: #a26532;
+}
