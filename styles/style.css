@@ -66,6 +66,14 @@ main a:hover {
   color: #2c3639;
 }
 
+section:nth-of-type(1) {
+  margin-bottom: 20px;
+}
+
+section > p {
+  margin: 15px 0;
+}
+
 li {
   padding-left: 10px;
   border-left: 4px solid transparent;
