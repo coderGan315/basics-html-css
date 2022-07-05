@@ -9,7 +9,7 @@
 body {
   letter-spacing: 1.5px;
   font-family: "Open Sans", sans-serif;
-  background-color: #2c3639;
+  background-color: #d3cedf;
   color: #dcd7c9;
 }
 
@@ -21,6 +21,7 @@ a {
 h1 {
   font-size: 45px;
   line-height: 2;
+  color: #9cb4cc;
 }
 
 p {
